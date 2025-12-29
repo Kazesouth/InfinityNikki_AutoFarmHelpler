@@ -2,7 +2,7 @@
 ## <font size = "7">使用教程
 方法一、通过git clone命令复制仓库到本地：\
 `git clone https://github.com/Kazesouth/InfinityNikki_AutoFarmHelpler.git`\
-完成后会在本地看到InfinityNikki_AutoFarmHelpler文件夹，打开文件夹，使用管理员身份打开* *CMD* *或* *Powershell* *，cd到InfinityNikki_AutoFarmHelpler文件夹，运行main.py就可以了。\
+完成后会在本地看到InfinityNikki_AutoFarmHelpler文件夹，打开文件夹，使用管理员身份打开*CMD* 或*Powershell*，cd到InfinityNikki_AutoFarmHelpler文件夹，运行main.py就可以了。\
 方法二、直接在release中下载zip压缩包。\
 解压后得到如下文件和文件夹。\
 文件夹“imgs”是存放模板图片的，如果默认的图片不合适，你也可以换成自己截图的图片。图片名称可以改，但不建议改，因为改的话得同时改json5里面图片的名称。\
