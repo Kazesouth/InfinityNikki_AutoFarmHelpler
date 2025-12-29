@@ -1,4 +1,4 @@
-# InfinityNikki_AutoFarmhelpler\
+# InfinityNikki_AutoFarmhelpler
 ## <font size = "7">使用教程
 方法一、通过git clone命令复制仓库到本地：\
 `git clone https://github.com/Kazesouth/InfinityNikki_AutoFarmHelpler.git`\
@@ -8,7 +8,7 @@
 “无限暖暖家园小助手.exe”就是脚本程序，文件夹“imgs”是存放模板图片的，如果默认的图片不合适，你也可以换成自己截图的图片。图片名称可以改，但不建议改，因为改的话得同时改json5里面图片的名称。\
 [images](https://github.com/Kazesouth/store_files/QQ20251229-214204.png)\
 点击“无限暖暖家园小助手.exe”打开脚本程序，打开后界面是这样的：\
-[图片](https://github.com/Kazesouth/store_files/无限暖暖家园种植小助手界面.png)\
+[图片](https://github.com/Kazesouth/InfinityNikki_AutoFarmHelpler/tree/main/imgs/click_enter_01.png)\
 在运行脚本程序之前，需要将家园的田地按照下图摆放（摆放成长条，周围用墙或木板灯障碍物围起来），并调整好视角。同时确保已切换种植能力，并持有足够多的种子。\
 [图片](https://github.com/Kazesouth/store_files/QQ20251229-182618.png)\
 打开游戏启动器置于前台。确认配置后就可以开始运行脚本了。\
