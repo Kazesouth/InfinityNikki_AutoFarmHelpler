@@ -5,12 +5,16 @@
 完成后会在本地看到InfinityNikki_AutoFarmHelpler文件夹，打开文件夹，使用管理员身份打开CMD或Powershell，cd到InfinityNikki_AutoFarmHelpler文件夹，运行main.py就可以了。\
 方法二、直接在release中下载zip压缩包。\
 解压后得到如下文件和文件夹。\
-“无限暖暖家园小助手.exe”就是脚本程序，文件夹“imgs”是存放模板图片的，如果默认的图片不合适，你也可以换成自己截图的图片。图片名称可以改，但不建议改，因为改的话得同时改json5里面图片的名称。\
-[images](https://github.com/Kazesouth/store_files/QQ20251229-214204.png)\
+文件夹“imgs”是存放模板图片的，如果默认的图片不合适，你也可以换成自己截图的图片。图片名称可以改，但不建议改，因为改的话得同时改json5里面图片的名称。\
+<img width="999" height="282" alt="QQ20251229-214204" src="https://github.com/user-attachments/assets/f656c9ef-da55-4ad2-83b4-3cc33e031ad9" />\
 点击“无限暖暖家园小助手.exe”打开脚本程序，打开后界面是这样的：\
-[图片](https://github.com/Kazesouth/InfinityNikki_AutoFarmHelpler/tree/main/imgs/click_enter_01.png)\
+<img width="302" height="803" alt="无限暖暖家园种植小助手界面" src="https://github.com/user-attachments/assets/d69d9405-a5b4-4b45-ada1-8e945f1240d9" />
+\
 在运行脚本程序之前，需要将家园的田地按照下图摆放（摆放成长条，周围用墙或木板灯障碍物围起来），并调整好视角。同时确保已切换种植能力，并持有足够多的种子。\
-[图片](https://github.com/Kazesouth/store_files/QQ20251229-182618.png)\
+<img width="1442" height="909" alt="QQ20251229-182618" src="https://github.com/user-attachments/assets/5e33ade6-e59e-4bc1-8b08-5c65e6cd2f47" />
+这样摆放↑\
+<img width="1442" height="910" alt="ingame_view_01" src="https://github.com/user-attachments/assets/60ad3f15-108e-48eb-9132-7f02edf35a31" />
+调整视角↑\
 打开游戏启动器置于前台。确认配置后就可以开始运行脚本了。\
 \
 \
