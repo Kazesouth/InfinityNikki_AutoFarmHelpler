@@ -10,12 +10,13 @@
 点击“无限暖暖家园小助手.exe”打开脚本程序，打开后界面是这样的：\
 <img width="302" height="803" alt="无限暖暖家园种植小助手界面" src="https://github.com/user-attachments/assets/d69d9405-a5b4-4b45-ada1-8e945f1240d9" />
 \
-在运行脚本程序之前，需要将家园的田地按照下图摆放（摆放成长条，周围用墙或木板灯障碍物围起来），并调整好视角。同时确保已切换种植能力，并持有足够多的种子。\
+在运行脚本程序之前，需要将家园的田地按照下图摆放（摆放成长条，周围用墙或木板等障碍物围起来），并调整好视角。同时确保已切换种植能力，并持有足够多的种子。\
 <img width="1442" height="909" alt="QQ20251229-182618" src="https://github.com/user-attachments/assets/5e33ade6-e59e-4bc1-8b08-5c65e6cd2f47" />
 这样摆放↑\
 <img width="1442" height="910" alt="ingame_view_01" src="https://github.com/user-attachments/assets/60ad3f15-108e-48eb-9132-7f02edf35a31" />
 调整视角↑\
 打开游戏启动器置于前台。确认配置后就可以开始运行脚本了。\
+初次运行会自动生成json5文件和log文件。\
 \
 \
 \
